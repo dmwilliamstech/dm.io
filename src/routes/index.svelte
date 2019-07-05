@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>Sapper project template</title>
+	<title>DM.io</title>
 
 			 
 	<!-- Animate.css -->
