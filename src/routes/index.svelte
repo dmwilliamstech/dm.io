@@ -189,8 +189,8 @@
 									<i class="icon-bulb"></i>
 								</span>
 								<div class="desc">
-									<h3>Innovative Ideas</h3>
-									<p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+									<h3>Solution Architect</h3>
+									<p>TOBE</p>
 								</div>
 							</div>
 						</div>
@@ -200,8 +200,8 @@
 									<i class="icon-data"></i>
 								</span>
 								<div class="desc">
-									<h3>Software</h3>
-									<p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+									<h3>Cloud Computing</h3>
+									<p>TOBE</p>
 								</div>
 							</div>
 						</div>
@@ -211,8 +211,8 @@
 									<i class="icon-phone3"></i>
 								</span>
 								<div class="desc">
-									<h3>Application</h3>
-									<p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+									<h3>Mobile</h3>
+									<p>TOBE</p>
 								</div>
 							</div>
 						</div>
@@ -222,8 +222,8 @@
 									<i class="icon-layers2"></i>
 								</span>
 								<div class="desc">
-									<h3>Graphic Design</h3>
-									<p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+									<h3>DevSecOps</h3>
+									<p>TOBE</p>
 								</div>
 							</div>
 						</div>
@@ -233,12 +233,12 @@
 									<i class="icon-data"></i>
 								</span>
 								<div class="desc">
-									<h3>Software</h3>
-									<p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+									<h3>Web Dev</h3>
+									<p>TOBE</p>
 								</div>
 							</div>
 						</div>
-						<div class="col-md-4 text-center animate-box">
+						<!-- <div class="col-md-4 text-center animate-box">
 							<div class="services color-6">
 								<span class="icon">
 									<i class="icon-phone3"></i>
@@ -250,7 +250,7 @@
 							</div>
 						</div>
 					</div>
-				</div>
+				</div> -->
 			</section>
 			
 			<div id="colorlib-counter" class="colorlib-counters" style="background-image: url(images/cover_bg_1.jpg);" data-stellar-background-ratio="0.5">
@@ -260,20 +260,20 @@
 					</div>
 					<div class="row">
 						<div class="col-md-3 text-center animate-box">
-							<span class="colorlib-counter js-counter" data-from="0" data-to="309" data-speed="5000" data-refresh-interval="50"></span>
-							<span class="colorlib-counter-label">Cups of coffee</span>
+							<span class="colorlib-counter js-counter" data-from="0" data-to="500" data-speed="5000" data-refresh-interval="50"></span>
+							<span class="colorlib-counter-label">Protein Cookies</span>
 						</div>
 						<div class="col-md-3 text-center animate-box">
-							<span class="colorlib-counter js-counter" data-from="0" data-to="356" data-speed="5000" data-refresh-interval="50"></span>
+							<span class="colorlib-counter js-counter" data-from="0" data-to="150" data-speed="5000" data-refresh-interval="50"></span>
 							<span class="colorlib-counter-label">Projects</span>
 						</div>
 						<div class="col-md-3 text-center animate-box">
-							<span class="colorlib-counter js-counter" data-from="0" data-to="30" data-speed="5000" data-refresh-interval="50"></span>
+							<span class="colorlib-counter js-counter" data-from="0" data-to="20" data-speed="5000" data-refresh-interval="50"></span>
 							<span class="colorlib-counter-label">Clients</span>
 						</div>
 						<div class="col-md-3 text-center animate-box">
-							<span class="colorlib-counter js-counter" data-from="0" data-to="10" data-speed="5000" data-refresh-interval="50"></span>
-							<span class="colorlib-counter-label">Partners</span>
+							<span class="colorlib-counter js-counter" data-from="0" data-to="15" data-speed="5000" data-refresh-interval="50"></span>
+							<span class="colorlib-counter-label">Years of Exp</span>
 						</div>
 					</div>
 				</div>
@@ -477,7 +477,7 @@
 					               </div>
 
 					               <div class="timeline-label">
-					                  <h2><a href="#">Chief, Product Engineering</a> <span>2016-2018</span></h2>
+					                  <h2><a href="#">Chief, Product Engineering @ Dept of Defense</a> <span>2016-2018</span></h2>
 					                  <p>TOBE</p>
 					               </div>
 					            </div>
@@ -490,7 +490,7 @@
 					                  <i class="icon-pen2"></i>
 					               </div>
 					               <div class="timeline-label">
-					               	<h2><a href="#">Chief Engineer, DISA Storefront</a> <span>2017-2018</span></h2>
+					               	<h2><a href="#">Chief Engineer, DISA Storefront @ Dept of Defense</a> <span>2017-2018</span></h2>
 					                  <p>TOBE</p>
 					               </div>
 					            </div>
@@ -502,7 +502,7 @@
 					                  <i class="icon-pen2"></i>
 					               </div>
 					               <div class="timeline-label">
-					               	<h2><a href="#">Solution Architect</a> <span>2015-2016</span></h2>
+					               	<h2><a href="#">Solution Architect @ Federal Election Commission</a> <span>2015-2016</span></h2>
 					                  <p>TOBE</p>
 					               </div>
 					            </div>
@@ -514,8 +514,8 @@
 					                  <i class="icon-pen2"></i>
 					               </div>
 					               <div class="timeline-label">
-					               	<h2><a href="#">Lead DevOps Engineer</a> <span>2014-2015</span></h2>
-					                  <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+					               	<h2><a href="#">Lead DevOps Engineer @ Booz Allen Hamilton</a> <span>2014-2015</span></h2>
+					                  <p>TOBE</p>
 					               </div>
 					            </div>
 					         </article>
@@ -526,11 +526,36 @@
 					                  <i class="icon-pen2"></i>
 					               </div>
 					               <div class="timeline-label">
-					               	<h2><a href="#">UI/UX Designer at Envato</a> <span>2017-2018</span></h2>
-					                  <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+					               	<h2><a href="#">Software Engineer @ AirGapIT</a> <span>2013-2014</span></h2>
+					                  <p>TOBE</p>
 					               </div>
 					            </div>
 					         </article>
+
+					         <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+					            <div class="timeline-entry-inner">
+					               <div class="timeline-icon color-5">
+					                  <i class="icon-pen2"></i>
+					               </div>
+					               <div class="timeline-label">
+					               	<h2><a href="#">Software Engineer @ BTS</a> <span>2013-2013</span></h2>
+					                  <p>TOBE</p>
+					               </div>
+					            </div>
+					         </article>
+
+					         <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+					            <div class="timeline-entry-inner">
+					               <div class="timeline-icon color-5">
+					                  <i class="icon-pen2"></i>
+					               </div>
+					               <div class="timeline-label">
+					               	<h2><a href="#">Software Security Engineer @ Six3 Systems</a> <span>2011-2013</span></h2>
+					                  <p>TOBE</p>
+					               </div>
+					            </div>
+					         </article>
+
 
 					         <article class="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
 					            <div class="timeline-entry-inner">
