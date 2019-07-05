@@ -100,7 +100,7 @@
 					   			<div class="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
 					   				<div class="slider-text-inner">
 					   					<div class="desc">
-						   					<h1>I'm great @ </h1> <h2><br>Cloud Solution Architecting<br>Web & App development<br>DevSecOps Consultant</h2>
+						   					<h1>I'm great @ </h1> <h2><br>Cloud Computing<br>Web & App development<br>DevSecOps Consultant</h2>
 												<p><a class="btn btn-primary btn-learn">View Portfolio <i class="icon-briefcase3"></i></a></p>
 											</div>
 					   				</div>
